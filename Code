@@ -49,7 +49,7 @@ void loop()
   lcd.print("TDS Value : "); 
   lcd.print(tdsValue,0);
   lcd.setCursor(3, 1);
-  lcd.print("Techeonics"); 
+  lcd.print("Minh Quang");  
    }
 }
 int getMedianNum(int bArray[], int iFilterLen) 
